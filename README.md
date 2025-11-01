@@ -2,6 +2,7 @@
 <p align = "center">  
   <!-- svg for Custom Monospace font-->
   <img src= "images/text (1).svg">
+  <!-- ^Substitute for banner^ -->
   <p align = "center">
     <a href=""><img width="32px" alt="" title="Discord" src="images/discord-logo_or.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -19,6 +20,8 @@
 
 <!-- About me in a few lines-->
 
+Hey! I'm Alex.
+
 <!-- Github stats and Tools side to side-->
 <img align="right" width="38%" src=""/> 
   <!-- Vercel hooks -->
@@ -28,13 +31,11 @@
 
 <!-- Project list -->
 
-# 👨‍💻 About me
-Hey! I'm Alex Ornosa, a full-stack developer based in Spain. 
 
-# 🔧Tools
+## 🔧Tools
 
 I'm currently a senior student in IT Engineering at Universidade da Coruña. 
-# 🛠 Currently working on
+## 🛠 Currently working on
 
-# 📊 Github Stats
+## 📊 Github Stats
 
