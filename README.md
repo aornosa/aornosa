@@ -2,6 +2,17 @@
 <p align = "center">  
   <!-- svg for Custom Monospace font-->
   <img src= "text.svg">
+  
+  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
 </br></br></br></br>
