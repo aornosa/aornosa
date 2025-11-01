@@ -2,18 +2,18 @@
 <p align = "center">  
   <!-- svg for Custom Monospace font-->
   <img src= "images/text (1).svg">
-  
-  <a href=""><img width="32px" alt="" title="Discord" src="images/discord-logo_or.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="" title="Social1" src=""/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="" title="Social2" src=""/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="" title="Social3" src=""/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="" title="Social4" src=""/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
+  <p align = "center">
+    <a href=""><img width="32px" alt="" title="Discord" src="images/discord-logo_or.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href=""><img width="32px" alt="" title="Social1" src=""/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href=""><img width="32px" alt="" title="Social2" src=""/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href=""><img width="32px" alt="" title="Social3" src=""/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href=""><img width="32px" alt="" title="Social4" src=""/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
 </p>
 </br></br></br></br>
 
