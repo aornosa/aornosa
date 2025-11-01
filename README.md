@@ -24,7 +24,7 @@
 </p>
 </br>
 <!-- Github stats and Tools side to side-->
-<img align="right" width="38%" src="images/discord-logo_or.png"/> 
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aornosa&theme=dark&show_icons=true&hide_border=true&layout=compact"/> 
   <!-- Vercel hooks -->
   <a href=""><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aornosa&theme=dark&show_icons=true&hide_border=true&count_private=true"></a>
   <a href=""><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aornosa&theme=dark&hide_border=true"></a></p>
