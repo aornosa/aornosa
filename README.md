@@ -1,10 +1,10 @@
-# 👨‍💻 About me:
+# 👨‍💻 About me
 Hey! I'm Alex Ornosa, a full-stack developer based in Spain. 
 
 # 🔧Tools
 
 I'm currently a senior student in IT Engineering at Universidade da Coruña. 
-# 🛠 What i'm currently working on:
+# 🛠 Currently working on
 
 # 📊Github Stats
 
