@@ -1,11 +1,20 @@
+</br></br>
 <p align = "center">  
   <!-- svg for Custom Monospace font-->
-  <a href = "">Name SVG Placeholder with presentation title to the side</a>
+  <img src= "text.svg">
+
 </p>
+</br></br></br></br>
 
 <!-- About me in a few lines-->
 
 <!-- Github stats and Tools side to side-->
+<div width ="50%"> 
+  <!-- Stats -->
+</div>
+<div width = "50%">
+  <!-- Tools -->
+</div>
 
 <!-- Project list -->
 
