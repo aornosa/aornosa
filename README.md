@@ -4,7 +4,7 @@
   <img src= "images/text (1).svg">
   <!-- ^Substitute for banner^ -->
   <p align = "center">
-    <a href=""><img width="32px" alt="" title="Discord" src="images/discord-logo_or.png"/></a>
+    <a href=""><img width="32px" alt="" title="Discord" src="i/mages/discord-logo_or.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href=""><img width="32px" alt="" title="Social1" src=""/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,7 +20,7 @@
 
 <!-- About me in a few lines-->
 
-Hey! I'm Alex.
+<!--Hey! I'm Alex.-->
 
 <!-- Github stats and Tools side to side-->
 <img align="right" width="38%" src=""/> 
@@ -33,9 +33,27 @@ Hey! I'm Alex.
 
 
 ## 🔧Tools
+<p align = "center"> 
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  &#8287;&#8287;
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  &#8287;&#8287;
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &#8287;&#8287;
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  &#8287;&#8287;
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" />
+  &#8287;&#8287;
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &#8287;&#8287;
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  &#8287;&#8287;
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &#8287;&#8287;
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  &#8287;&#8287;
+  <img width = "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  &#8287;&#8287;
+</p>
 
-I'm currently a senior student in IT Engineering at Universidade da Coruña. 
-## 🛠 Currently working on
-
-## 📊 Github Stats
 
