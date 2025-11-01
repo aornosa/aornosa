@@ -3,7 +3,7 @@
   <!-- svg for Custom Monospace font-->
   <img src= "text (1).svg">
   
-  <a href=""><img width="32px" alt="" title="Social0" src=""/></a>
+  <a href=""><img width="32px" alt="" title="Discord" src="discord-logo_or.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="" title="Social1" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
