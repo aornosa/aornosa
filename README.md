@@ -1,9 +1,9 @@
 </br></br>
 <p align = "center">  
   <!-- svg for Custom Monospace font-->
-  <img src= "text (1).svg">
+  <img src= "images/text (1).svg">
   
-  <a href=""><img width="32px" alt="" title="Discord" src="discord-logo_or.png"/></a>
+  <a href=""><img width="32px" alt="" title="Discord" src="images/discord-logo_or.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="" title="Social1" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
