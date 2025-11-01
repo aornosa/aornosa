@@ -3,15 +3,15 @@
   <!-- svg for Custom Monospace font-->
   <img src= "text.svg">
   
-  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  <a href=""><img width="32px" alt="" title="Social0" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  <a href=""><img width="32px" alt="" title="Social1" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  <a href=""><img width="32px" alt="" title="Social2" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  <a href=""><img width="32px" alt="" title="Social3" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="" title="Youtube" src=""/></a>
+  <a href=""><img width="32px" alt="" title="Social4" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
