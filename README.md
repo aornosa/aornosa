@@ -20,12 +20,11 @@
 <!-- About me in a few lines-->
 
 <!-- Github stats and Tools side to side-->
-<div width ="50%"> 
-  <!-- Stats -->
-</div>
-<div width = "50%">
-  <!-- Tools -->
-</div>
+<img align="right" width="38%" src=""/>
+  <!-- Vercel hooks -->
+  <a href=""><img width="50%" src=""></a>
+  <a href=""><img width="50%" src=""></a>
+
 
 <!-- Project list -->
 
