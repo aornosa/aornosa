@@ -16,7 +16,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 </p>
-</br></br>
+</br>
 
 <!-- About me in a few lines-->
 <p align="center">
