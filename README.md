@@ -1,7 +1,7 @@
 </br></br>
 <p align = "center">  
   <!-- svg for Custom Monospace font-->
-  <img src= "images/github-header-banner.png">
+  <img src= "images/github-header-banner-dim.png">
   <!-- ^Substitute for banner^ -->
   <p align = "center">
     <a href=""><img width="32px" alt="" title="Discord" src="i/mages/discord-logo_or.png"/></a>
