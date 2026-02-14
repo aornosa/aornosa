@@ -20,7 +20,7 @@
 
 <!-- About me in a few lines-->
 <p align="center">
-  Hey! I'm Alex.  
+
 </p>
 </br>
 <!-- Github stats and Tools side to side-->
